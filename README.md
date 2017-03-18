@@ -1,2 +1,2 @@
 # lyricsica
-An Android-App which you can use to save your Lyrics and show them on Live-Gigs
+This repository will be a first try to develop an Android-Application.
